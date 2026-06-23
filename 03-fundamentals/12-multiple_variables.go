@@ -22,11 +22,11 @@ func multipleVariables() {
 
 	fmt.Println(a, b, c)
 
-	a, b, c = 10, 2, 3 // Re-asigning new values
+	a, b, c = 10, 2, 3 // Re-assigning new values
 
 	fmt.Println(a, b, c)
 
-	a, b, c, d := 3, 4, 5, 9 // Re-asigning and creating a new one
+	a, b, c, d := 3, 4, 5, 9 // Re-assigning and creating a new one
 
 	fmt.Println(a, b, c, d)
 }
