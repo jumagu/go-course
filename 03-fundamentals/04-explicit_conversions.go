@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func explicitConvertions() {
+func explicitConversions() {
 	// * Explicit conversions
 	var number1 int = 10
 	var number2 float64 = 3.5
